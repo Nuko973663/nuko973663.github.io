@@ -14,7 +14,7 @@ Nuko は JPYC エコシステムと xWIN を応援しています。
 
 - Community Activities
 
-  - [JPYC Grant Application 01: JPYC Pay](https://nuko973663.github.io/jpyc_grant_application01)
+  - [JPYC Grant Application 01: JPYC Pay](https://nuko973663.github.io/jpyc_grant_application_01)
 
 - Links
   - [Articles on HIDE online](https://hide.ac/user-articles?id=3gUbh2HlsmdPc5jsyjyrqcxJM6x2)
