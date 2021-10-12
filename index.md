@@ -8,6 +8,9 @@ Nuko は JPYC エコシステムと xWIN を応援しています。
   - [xWIN Pay QR Generator（仮称）](https://nuko973663.github.io/jpycpayqr/xwin.html)
   - [JPYC Stabilizer](https://nuko973663.github.io/JPYCstabilizer/)
 
+- Twitter Bot
+  - [JPYCお得情報BOT](https://twitter.com/jpycbot) 
+
 - Libraries
 
   - [QRCodePay.js](https://github.com/Nuko973663/qrcodepayjs) for [Live Demo](https://nuko973663.github.io/qrcodepayjs/)
